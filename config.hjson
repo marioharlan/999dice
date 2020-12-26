@@ -15,8 +15,8 @@
  "Target Profit": {
       "Target Profit": "1",
       "Relogin If Target Profit": {
-          "Toggle": "OFF",
-          "Interval": "0"
+          "Toggle": "ON",
+          "Interval": "30"
       }
  },
  "Target Lose": "0", 
@@ -26,7 +26,7 @@
      "If Profit": "1",
      "If Lose Streak": "0",
      "If Win Streak": "10",
-     "Interval": "100"
+     "Interval": "0"
  },
  "Config": [{
        "Name Bet Set": "C45",
